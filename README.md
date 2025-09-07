@@ -5,7 +5,7 @@ Bahrain is a major food importer, its primary partners for food products are cou
 # Findings:
 
 1. Bahrain's general imports decreased in 2021
-    -The impact of the COVID-19 Pandemic: The global COVID-19 pandemic, which extended into 2021, significantly disrupted international trade and supply chains.
+    • The impact of the COVID-19 Pandemic: The global COVID-19 pandemic, which extended into 2021, significantly disrupted international trade and supply chains.
 
 2. Increased Cigarette Imports from Poland
    1.	Cost-Effectiveness and Tax Advantages: Polish tobacco products might be more cost-effective due to lower production costs and competitive pricing. (Tobacco Tax Revenue Has Gone Up in Smoke—And Not Entirely for the Reason You Think | U.S. GAO)
