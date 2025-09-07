@@ -2,7 +2,7 @@
 
 Bahrain is a major food importer, its primary partners for food products are countries like Saudi Arabia, the United Arab Emirates, the United States, the United Kingdom, and Turkey. I did this Dashboard to track the foodstuffs from 2020 to 2023.
 
-# Outcomes:
+# Finding:
 
 1. Bahrain's general imports decreased in 2021
 Impact of the COVID-19 Pandemic: The global COVID-19 pandemic, which extended into 2021, significantly disrupted international trade and supply chains.
