@@ -4,13 +4,13 @@ Bahrain is a major food importer, its primary partners for food products are cou
 
 # Outcomes:
 
-- Bahrain's general imports decreased in 2021
+1. Bahrain's general imports decreased in 2021
 Impact of the COVID-19 Pandemic: The global COVID-19 pandemic, which extended into 2021, significantly disrupted international trade and supply chains.
 
-- Increased Cigarette Imports from Poland
-1.	Cost-Effectiveness and Tax Advantages: Polish tobacco products might be more cost-effective due to lower production costs and competitive pricing. (Tobacco Tax Revenue Has Gone Up in Smoke—And Not Entirely for the Reason You Think | U.S. GAO)
-2.	Economic and Logistical Factors: Poland's stable economic growth and investment in logistics might enhance its ability to export tobacco products efficiently.
-3.	Consumer Preferences: Consumer shift towards roll-your-own (RYO) tobacco products. Poland, as a significant tobacco producer in the EU, might be catering to this niche with affordable RYO options, thereby driving import growth. (Bahrain Roll-Your-Own Tobacco Product Market (2025-2031) | Size & Outlook Growth)
+2. Increased Cigarette Imports from Poland
+   1.	Cost-Effectiveness and Tax Advantages: Polish tobacco products might be more cost-effective due to lower production costs and competitive pricing. (Tobacco Tax Revenue Has Gone Up in Smoke—And Not Entirely for the Reason You Think | U.S. GAO)
+   2.	Economic and Logistical Factors: Poland's stable economic growth and investment in logistics might enhance its ability to export tobacco products efficiently.
+   3.	Consumer Preferences: Consumer shift towards roll-your-own (RYO) tobacco products. Poland, as a significant tobacco producer in the EU, might be catering to this niche with affordable RYO options, thereby driving import growth. (Bahrain Roll-Your-Own Tobacco Product Market (2025-2031) | Size & Outlook Growth)
 
 # Google Drive Link
 https://drive.google.com/drive/u/1/folders/1fwTJ9S6cfpw0hJ4WwRaEDedG3SQ9RfM3
