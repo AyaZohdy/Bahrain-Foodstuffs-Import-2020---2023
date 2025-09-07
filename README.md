@@ -13,4 +13,10 @@ Impact of the COVID-19 Pandemic: The global COVID-19 pandemic, which extended in
 2.	Economic and Logistical Factors: Poland's stable economic growth and investment in logistics might enhance its ability to export tobacco products efficiently.
 3.	Consumer Preferences: Consumer shift towards roll-your-own (RYO) tobacco products. Poland, as a significant tobacco producer in the EU, might be catering to this niche with affordable RYO options, thereby driving import growth. (Bahrain Roll-Your-Own Tobacco Product Market (2025-2031) | Size & Outlook Growth)
 
-![](C:\Users\ASUS\Pictures\Screenshots\Bahrain Import.png)
+# Bahrain Foodstuffs Import 2020 - 2023
+
+<img width="1405" height="826" alt="Bahrain Import" src="https://github.com/user-attachments/assets/db2cba41-2b52-4d87-8cf7-15ea81da4739" />
+
+# Bahrain Foodstuffs Import From GCC 2020 - 2023
+
+<img width="1416" height="823" alt="GCC Import" src="https://github.com/user-attachments/assets/5519b5a6-5268-47a4-a5ad-aad907e866f0" />
